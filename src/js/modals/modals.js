@@ -35,6 +35,6 @@ function showModalByTime (modalSelector, time) {
 openModal('.popup_engineer_btn','.popup_engineer', '.popup_engineer .popup_close' )
 openModal('.phone_link','.popup', '.popup .popup_close' )
 
-showModalByTime('.popup', 5000)
+showModalByTime('.popup', 60000)
 
 }
